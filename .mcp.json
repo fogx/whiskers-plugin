@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "whiskers": {
+      "type": "http",
+      "url": "https://whiskers.fogx.dev/mcp"
+    }
+  }
+}
