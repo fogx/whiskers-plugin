@@ -1,13 +1,13 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
   "name": "whiskers",
-  "description": "The Whiskers plugin: meal plans, a shared cookbook, shopping lists and a food diary for your household.",
+  "description": "The Whiskers plugin: meal plans, a shared cookbook, shopping lists and a food diary for you and your family.",
   "owner": { "name": "fogx", "email": "fogxdev@gmail.com", "url": "https://whiskers.fogx.dev" },
   "plugins": [
     {
       "name": "whiskers",
       "source": "./",
-      "description": "Plan a household's meals, keep a shared cookbook, make shopping lists and keep a food diary.",
+      "description": "Plan your family's meals, keep a shared cookbook, make shopping lists and keep a food diary.",
       "version": "1.0.0",
       "category": "productivity",
       "tags": ["meal planning", "recipes", "groceries", "nutrition"]
