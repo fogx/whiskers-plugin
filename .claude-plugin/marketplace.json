@@ -8,7 +8,7 @@
       "name": "whiskers",
       "source": "./",
       "description": "Plan your family's meals, keep a shared cookbook, make shopping lists and keep a food diary.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "productivity",
       "tags": ["meal planning", "recipes", "groceries", "nutrition"]
     }
