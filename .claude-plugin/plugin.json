@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "whiskers",
   "displayName": "Whiskers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Plan your family's week of meals, keep a shared cookbook, turn the plan into a shopping list with an estimated cost, and keep a food diary against nutrition targets. Connects to the Whiskers MCP server and adds a skill that tells Claude how to use it well and how to report bugs.",
   "author": { "name": "fogx", "email": "fogxdev@gmail.com", "url": "https://whiskers.fogx.dev" },
   "homepage": "https://whiskers.fogx.dev",
